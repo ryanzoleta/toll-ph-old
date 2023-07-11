@@ -1,0 +1,454 @@
+{
+  "points": [
+    {
+      "id": "SKY",
+      "description": "Skyway",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "MAG",
+      "description": "Magallanes",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "MER",
+      "description": "Merville",
+      "groups": ["SLEX", "EXIT_ONLY"]
+    },
+    {
+      "id": "BIC",
+      "description": "Bicutan",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "SUC",
+      "description": "Sucat",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "ALA",
+      "description": "Alabang",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "FIL",
+      "description": "Filinvest",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "MCX",
+      "description": "MCX",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "SUS",
+      "description": "Susana Height",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "SNP",
+      "description": "San Pedro",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "SWD",
+      "description": "Southwoods",
+      "groups": ["Southwoods"]
+    },
+    {
+      "id": "CAR",
+      "description": "Carmona",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "MAM",
+      "description": "Mamplasan",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "STR",
+      "description": "Santa Rosa",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "ABI",
+      "description": "ABI/Greenfield",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "CAB",
+      "description": "Cabuyao",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "SIL",
+      "description": "Silangan",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "CAL",
+      "description": "Calamba",
+      "groups": ["SLEX"]
+    },
+    {
+      "id": "STO",
+      "description": "Sto. Tomas",
+      "groups": ["SLEX", "STAR"]
+    },
+    {
+      "id": "BWK",
+      "description": "Balintawak",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "MIN",
+      "description": "Mindanao Avenue",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "KAR",
+      "description": "Karuhatan",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "VAL",
+      "description": "Valenzuela",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "MEY",
+      "description": "Meycauayan",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "MAR",
+      "description": "Marilao",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "CDV",
+      "description": "Ciudad de Victoria",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "BOC",
+      "description": "Bocaue",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "TAM",
+      "description": "Tambubong",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "BAL",
+      "description": "Balagtas",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "TAB",
+      "description": "Tabang",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "SRI",
+      "description": "Sta. Rita",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "PUL",
+      "description": "Pulilan",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "SNM",
+      "description": "San Simon",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "SNF",
+      "description": "San Fernando",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "MXC",
+      "description": "Mexico",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "ANG",
+      "description": "Angeles",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "DAU",
+      "description": "Dau",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "STI",
+      "description": "Sta. Ines",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "TIP",
+      "description": "Tipo/SFEX",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "DIN",
+      "description": "Dinalupihan",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "FLO",
+      "description": "Floridablanca",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "POR",
+      "description": "Porac",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "CLARKS",
+      "description": "Clark South",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "MAB",
+      "description": "Mabalacat (Mabiga",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "CLARKN",
+      "description": "Clark North",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "DOL",
+      "description": "Dolores",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "BAM",
+      "description": "Bamban (New Clark City)",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "CONC",
+      "description": "Concepcion",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "SMIG",
+      "description": "San Miguel",
+      "groups": ["NLEX"]
+    },
+
+    {
+      "id": "TARLAC",
+      "description": "Tarlac",
+      "groups": ["NLEX"]
+    },
+    {
+      "id": "LPZ",
+      "description": "La Paz",
+      "groups": ["TPLEX"]
+    },
+    {
+      "id": "VIC",
+      "description": "Victoria",
+      "groups": ["TPLEX"]
+    },
+    {
+      "id": "GER",
+      "description": "Gerona",
+      "groups": ["TPLEX"]
+    },
+    {
+      "id": "PNQ",
+      "description": "Paniqui",
+      "groups": ["TPLEX"]
+    },
+    {
+      "id": "MCD",
+      "description": "Moncada",
+      "groups": ["TPLEX"]
+    },
+    {
+      "id": "CRM",
+      "description": "Carmen",
+      "groups": ["TPLEX"]
+    },
+    {
+      "id": "URD",
+      "description": "Urdaneta",
+      "groups": ["TPLEX"]
+    },
+    {
+      "id": "BLN",
+      "description": "Binalonan",
+      "groups": ["TPLEX"]
+    },
+    {
+      "id": "PZB",
+      "description": "Pozorrubbio",
+      "groups": ["TPLEX"]
+    },
+    {
+      "id": "SSN",
+      "description": "Sison",
+      "groups": ["TPLEX"]
+    },
+    {
+      "id": "RSR",
+      "description": "Rosario",
+      "groups": ["TPLEX"]
+    },
+    {
+      "id": "TAN",
+      "description": "Tanauan",
+      "groups": ["STAR"]
+    },
+    {
+      "id": "MAL",
+      "description": "Malvar",
+      "groups": ["STAR"]
+    },
+    {
+      "id": "STOR",
+      "description": "Sto. Toribio",
+      "groups": ["STAR"]
+    },
+    {
+      "id": "LIP",
+      "description": "Lipa",
+      "groups": ["STAR"]
+    },
+    {
+      "id": "IBA",
+      "description": "Ibaan",
+      "groups": ["STAR"]
+    },
+    {
+      "id": "BAT",
+      "description": "Batangas",
+      "groups": ["STAR"]
+    },
+    {
+      "id": "GRF",
+      "description": "Greenfield",
+      "groups": ["CALAX"]
+    },
+    {
+      "id": "TNP",
+      "description": "Technopark",
+      "groups": ["CALAX"]
+    },
+    {
+      "id": "LAG",
+      "description": "Laguna Blvd.",
+      "groups": ["CALAX"]
+    },
+    {
+      "id": "STG",
+      "description": "Santa Rosa-Tagaytay",
+      "groups": ["CALAX"]
+    },
+    {
+      "id": "SILEAST",
+      "description": "Silang East",
+      "groups": ["CALAX"]
+    },
+    {
+      "id": "BUE",
+      "description": "Buendia",
+      "groups": ["SKY3"]
+    },
+    {
+      "id": "DIL",
+      "description": "Plaza Dilao",
+      "groups": ["SKY3"]
+    },
+    {
+      "id": "QUI",
+      "description": "Quirino",
+      "groups": ["SKY3"]
+    },
+    {
+      "id": "NAG",
+      "description": "Plaza Azul/Nagtahan",
+      "groups": ["SKY3"]
+    },
+    {
+      "id": "EROD",
+      "description": "E. Rodriguez",
+      "groups": ["SKY3"]
+    },
+    {
+      "id": "QUE",
+      "description": "Quezon Ave.",
+      "groups": ["SKY3"]
+    },
+    {
+      "id": "BAL2",
+      "description": "Balintawak",
+      "groups": ["SKY3"]
+    },
+    {
+      "id": "NLEX",
+      "description": "NLEX",
+      "groups": ["SKY3"]
+    },
+    {
+      "id": "PAR",
+      "description": "Parañaque",
+      "groups": ["CAVITEX"]
+    },
+    {
+      "id": "KAB",
+      "description": "Kabihasnan",
+      "groups": ["CAVITEX", "ENTRY_ONLY"]
+    },
+    {
+      "id": "BAC",
+      "description": "Bacoor",
+      "groups": ["CAVITEX"]
+    },
+    {
+      "id": "KAW",
+      "description": "Kawit",
+      "groups": ["CAVITEX"]
+    }
+  ]
+}

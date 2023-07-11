@@ -1,0 +1,14 @@
+{
+  "tollways": [
+    {
+      "id": "NLEX",
+      "description": "NLEX-SCTEX",
+      "stations": [
+        {
+          "id": "BLW",
+          "description": "Balinwatak"
+        }
+      ]
+    }
+  ]
+}
